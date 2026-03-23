@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # AI Document Q&A Agent
 
 A RAG-based AI agent that answers questions about any PDF document using only the document's content.
@@ -17,4 +16,3 @@ A RAG-based AI agent that answers questions about any PDF document using only th
 pip install -r requirements.txt
 streamlit run app.py
 ```
-EOF
