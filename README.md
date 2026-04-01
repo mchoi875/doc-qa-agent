@@ -30,4 +30,3 @@ export OPENAI_API_KEY="your-key-here"
 # Run the app
 streamlit run app.py
 ```
-EOF
