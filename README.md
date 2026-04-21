@@ -1,5 +1,7 @@
 # AI Document Q&A Agent
 
+Built to explore production RAG patterns including hallucination guardrails and retrieval transparency
+
 A RAG-based AI agent that answers questions about any PDF document using only the document's content.
 
 ## Features
